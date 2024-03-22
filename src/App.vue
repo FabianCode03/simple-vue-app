@@ -14,7 +14,7 @@ import TheWelcome from "./components/TheWelcome.vue";
     />
 
     <div class="wrapper">
-      <HelloWorld msg="Test des Azure Deployments" />
+      <HelloWorld msg="Fabian Behrendt" />
     </div>
   </header>
 
